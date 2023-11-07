@@ -1,1 +1,9 @@
+This project was part of the capstone for my Computer Science degree at WGU. 
 
+The goal was to identifiy a business need at an organisation that could be solved by machine learning, design the implementation, then implement it. 
+
+I chose a ficitonal hospital that was trying to idnetifiy the risk of sepsis patients. 
+
+I trained a machine learning model on the Sepsis Survival Prediction dataset from Kaggle. My model was able to predict, with 92% accuracy, whether a sepsis patient would survive or not, given biographical information about the patient such as age, sex, and number of sepsis infections. 
+
+The project was written in Python, and the machine learning aspect was implemented with Keras and Tensorflow. 
