@@ -4,7 +4,7 @@ The goal was to identify a business need at an organization that I could solve b
 
 I chose a fictional hospital that was trying to identify the risk of sepsis patients. 
 
-I trained a machine learning model on the Sepsis Survival Prediction dataset from Kaggle. My model was able to predict, with 92% accuracy, whether a sepsis patient would survive or not, given biographical information about the patient, such as age, sex, and number of sepsis infections. 
+I trained a machine learning model on the Sepsis Survival Prediction dataset from Kaggle. My model was able to predict, with 92% accuracy, a sepsis patient's chance of survival, given biographical information about the patient, such as age, sex, and number of sepsis infections. 
 
 I wrote the application in Python and implemented the machine learning aspect with Keras and TensorFlow. I hosted it on Google Colab.
 
