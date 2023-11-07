@@ -1,9 +1,16 @@
 This project was part of the capstone for my Computer Science degree at WGU. 
 
-The goal was to identifiy a business need at an organisation that could be solved by machine learning, design the implementation, then implement it. 
+The goal was to identify a business need at an organization that I could solve by machine learning, design the implementation, and then implement it. 
 
-I chose a ficitonal hospital that was trying to idnetifiy the risk of sepsis patients. 
+I chose a fictional hospital that was trying to identify the risk of sepsis patients. 
 
-I trained a machine learning model on the Sepsis Survival Prediction dataset from Kaggle. My model was able to predict, with 92% accuracy, whether a sepsis patient would survive or not, given biographical information about the patient such as age, sex, and number of sepsis infections. 
+I trained a machine learning model on the Sepsis Survival Prediction dataset from Kaggle. My model was able to predict, with 92% accuracy, whether a sepsis patient would survive or not, given biographical information about the patient, such as age, sex, and number of sepsis infections. 
 
-The project was written in Python, and the machine learning aspect was implemented with Keras and Tensorflow. 
+I wrote the application in Python and implemented the machine learning aspect with Keras and TensorFlow. I hosted it on Google Colab.
+
+To run the application:
+
+    1. Go to https://colab.research.google.com/github/MsBadison/WGU-Capstone/blob/main/Sepsis.ipynb
+    2. Select Runtime > Run all
+    3. If there is a warning, click Run anyway
+    4. Once the application has finished loading, enter the patient data and click Calculate
